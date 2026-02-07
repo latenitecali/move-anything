@@ -3,3 +3,4 @@ build/
 dist/
 libs/
 .vscode/
+.DS_Store
