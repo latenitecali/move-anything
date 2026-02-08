@@ -22,7 +22,7 @@ function yes_or_no {
 }
 
 install_pages=true
-url=https://github.com/latenitecali/move-anything/
+url=https://github.com/latenitecali/move-anything/raw/main/
 
 if [ "$1" = "local" ]; then
   url="file:/Users/jonathan/Developer/music/move/move-anything/"
