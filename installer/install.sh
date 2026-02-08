@@ -22,10 +22,10 @@ function yes_or_no {
 }
 
 install_pages=true
-url=https://github.com/chaolue/move-anything/raw/main/
+url=https://github.com/latenitecali/move-anything/
 
 if [ "$1" = "local" ]; then
-  url="file:/Users/rob/OrbStack/debian/home/rob/Projects/control_surface_move/"
+  url="file:/Users/jonathan/Developer/music/move/move-anything/"
 fi
 
 filename=control_surface_move.tar.gz
