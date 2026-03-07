@@ -91,7 +91,7 @@ An emulation of the Launch Pad Pro on the Ableton Move to be used with the Dirty
 
 
 ### Usage
-<img width="5664" height="2788" alt="move_LPP_instructions_v2" src="https://github.com/user-attachments/assets/27d0cf29-35be-4c64-9fc2-52d3f33686dd" />
+<img width="5664" height="2788" alt="move_LPP_instructions_v2" src="move_lpp_guide.png" />
 
 1. Once installed, to launch the m8 integration, hold shift(...) then touch the volume knob and the jog wheel. Toggle Launch Pad Pro control surface mode on the M8 and the Move should come show you the session mode.
 
@@ -126,7 +126,7 @@ A modification (by @chaolue) of move_m8_vlpp.js to include working display, 8 ad
 
 ### Usage
 
-1. Access this via the menu - hold shift(...) then touch the volume knob and knob 8.
+1. Access this via the menu - hold shift(...) then touch the volume knob and knob 8. (latenitecali note: this v2 now launches as the default script with shift+vol+jog wheel) 
 
 2. The knobs work the same as the original (move_m8_vlpp.js) but an addition 8 banks (9 total) are available. When started you are using the last (9th) 'master' knob bank. To change knob banks press the alternate step buttons. The step button will light up to show that it is selected. It will also show the current knob bank on the display. To get in and out of the 'master' knob bank toggle the current knob bank step button.
 
